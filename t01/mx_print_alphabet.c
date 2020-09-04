@@ -7,4 +7,5 @@ void mx_print_alphabet(void) {
         else 
             mx_printchar(i + 97);
     }
+    mx_printchar('\n');
 }
